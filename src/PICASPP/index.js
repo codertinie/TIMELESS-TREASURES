@@ -7,6 +7,7 @@ import Sea from "./Screens/Sea";
 import Sky from "./Screens/Sky";
 import SinglePic from "./Screens/Singlepic";
 import Screens from "./Screens";
+import SignUp from "./Screens/SignUp";
 
 
 const PICASAPP = () => {
@@ -18,6 +19,7 @@ const PICASAPP = () => {
           <Route path="land" element={<Land />} />
           <Route path="sea" element={<Sea />} />
           <Route path="sky" element={<Sky />} />
+          <Route path="Sign-up" element={<SignUp />} />
           <Route path="/:id" element={<SinglePic />} />
         </Route>
       </Routes>
