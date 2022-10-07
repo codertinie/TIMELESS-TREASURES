@@ -6,10 +6,23 @@ import Land from "./Screens/Land";
 import Sea from "./Screens/Sea";
 import Sky from "./Screens/Sky";
 import SinglePic from "./Screens/Singlepic";
+import Screens from "./Screens";
 
 
-const PICASAPP=()=>{
-
+const PICASAPP = () => {
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route path="" element={<Screens />} >
+          <Route path="" element={<Home />} />
+          <Route path="land" element={<Land />} />
+          <Route path="sea" element={<Sea />} />
+          <Route path="sky" element={<Sky />} />
+          <Route path="/:id" element={<SinglePic />} />
+        </Route>
+      </Routes>
+    </BrowserRouter>
+  )
 }
 
 export default PICASAPP;
