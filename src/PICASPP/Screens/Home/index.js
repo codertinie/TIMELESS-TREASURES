@@ -2,16 +2,23 @@ import { data } from "autoprefixer";
 import { useEffect, useState } from "react";
 
 
+
+
+
 const Home = () => {
   const [pictures, setPictures] = useState([])
   useEffect(() => {
     fetch("http://localhost:8001/pictures")
       .then(resp => resp.json())
       .then(setPictures)
-    console.log(pictures)
+    // console.log(pictures)
   }, [])
 
+const filtered = pictures.filter(obj => {
+  return obj.category === "land";
+})
 
+console.log(filtered)
 
 
   return (

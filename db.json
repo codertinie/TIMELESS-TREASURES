@@ -3,54 +3,66 @@
     {
       "id": 1,
       "url" : "https://media.istockphoto.com/photos/wave-formation-of-the-adriatic-sea-picture-id1222233279",
-      "description": "A photo of people in the sea"
+      "description": "A photo of people in the sea",
+      "category" : "sea"
     },
     {
       "id": 2,
       "url" : "https://media.istockphoto.com/photos/female-tourist-looking-the-basilica-di-santa-maria-della-salute-and-picture-id891465194",
-      "description": "A photo of people in the sea"
+      "description": "A photo of people in the sea",
+      "category" : "sea"
     },
     {
       "id": 3,
       "url" : "https://media.istockphoto.com/photos/snowcapped-k2-peak-picture-id1288385045",
-      "description": "K2 the second tallest mountain in the world"
+      "description": "K2 the second tallest mountain in the world",
+      "category" : "land"
     },
     {
       "id": 4,
       "url" : "https://media.istockphoto.com/photos/aerial-view-of-misty-mountains-at-sunrise-picture-id1195458582",
-      "description": "Aerial view of misty mountains at sunrise"
+      "description": "Aerial view of misty mountains at sunrise",
+      "category" : "land"
     },{
       "id": 5,
       "url" : "https://media.istockphoto.com/photos/nepal-couple-and-the-ice-lake-with-the-view-on-annapurna-chain-picture-id1130964201",
-      "description": "A couple walking towards the Ice lake, as part of the Annapurna Circuit Trek, Himalayas, Nepal. Annapurna chain in the back, covered with snow. Clear weather, dry grass, snowy peaks. High altitude"
+      "description": "A couple walking towards the Ice lake, as part of the Annapurna Circuit Trek, Himalayas, Nepal. Annapurna chain in the back, covered with snow. Clear weather, dry grass, snowy peaks. High altitude",
+      "category" : "land"
     },{
       "id": 6,
       "url" : "https://media.istockphoto.com/photos/view-of-annapurna-and-machapuchare-peak-at-sunrise-from-tadapani-picture-id620721706",
-      "description": "View of Annapurna and Machapuchare peak at Sunrise from Tadapani ,Nepal."
+      "description": "View of Annapurna and Machapuchare peak at Sunrise from Tadapani ,Nepal.",
+      "category" : "land"
     },{
       "id": 7,
       "url" : "https://media.istockphoto.com/photos/leiden-from-the-sky-at-night-night-picture-id1131102682",
-      "description": "Beautiful aerial cityscape view of the city of Leiden, the Netherlands, after sunset at night in the blue hour"
+      "description": "Beautiful aerial cityscape view of the city of Leiden, the Netherlands, after sunset at night in the blue hour",
+      "category" : "land"
     },{
       "id": 8,
       "url" : "https://media.istockphoto.com/photos/planet-earth-from-the-space-at-night-picture-id1271122894",
-      "description": "Planet earth from the space at night "
+      "description": "Planet earth from the space at night ",
+      "category" : "sky"
     },{
       "id": 9,
       "url" : "https://media.istockphoto.com/photos/space-and-galaxy-light-speed-travel-elements-of-this-image-furnished-picture-id1040334020",
-      "description": "Space and Galaxy light speed travel"
+      "description": "Space and Galaxy light speed travel",
+      "category" : "sky"
     },{
       "id": 10,
       "url" : "https://media.istockphoto.com/photos/spiral-galaxy-illustration-of-milky-way-picture-id481229372",
-      "description": "Spiral galaxy, illustration of Milky Way"
+      "description": "Spiral galaxy, illustration of Milky Way",
+      "category" : "sky"
     },{
       "id": 11,
       "url" : "https://media.istockphoto.com/photos/space-background-colorful-nebula-with-planet-picture-id1255395192",
-      "description": " Colorful nebula with planet"
+      "description": " Colorful nebula with planet",
+      "category" : "sky"
     },{
       "id": 12,
       "url" : "https://media.istockphoto.com/photos/robot-inspects-a-sunken-ship-deep-under-water-picture-id873965514",
-      "description": "Robot inspects a sunken ship deep under water"
+      "description": "Robot inspects a sunken ship deep under water",
+      "category" : "sea"
     },{
       "id": 13,
       "url" : "https://media.istockphoto.com/photos/underwater-view-with-tuna-school-fish-in-ocean-sea-life-in-water-picture-id1189904571",
