@@ -3,7 +3,7 @@ import TopNav from "./TopNav";
 
 function Screens() {
   return (
-    <div>
+    <div className=" text-center">
       <TopNav />
       <Outlet />
     </div>
