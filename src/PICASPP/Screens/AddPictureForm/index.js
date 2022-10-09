@@ -14,6 +14,12 @@ function handleChange(e){
 function handleSubmit(e){
   e.preventDefault()
   onSubmission(formData)
+  //to reset the form 
+  setFormData({
+    url: "",
+    description: "",
+    category: ""
+  })
 }
   return (
       <div >
