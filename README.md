@@ -39,6 +39,7 @@ b) Filter out pictures depending on the categories given
 c) Add pictures to the app by submitting correct data the form provided
 d) Zoom in pictures when the cursor hovers over them
 e) Register by filling out the form provided in the registration page
+f) Click on an individual picture to see a description about the picture
 
 # Github
 
