@@ -23,7 +23,6 @@ const Land=()=>{
         return <div onClick={() => navigate(`/${pic.id}`)}  
         key={id} className=" rounded-lg flex flex-col shadow-lg">
           <img className="w-96" src={pic.url} />
-          {/* <h2>{pic.description}</h2> */}
         </div>
       })}
     </div>
