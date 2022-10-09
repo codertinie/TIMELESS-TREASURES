@@ -1,5 +1,26 @@
+import { useEffect, useState } from "react";
+
 const Sea=()=>{
-    return <div> Hey I am the Sea Page</div>
+const [pictures, setPictures] = useState([])
+  useEffect(()=>{
+    fetch("http://localhost:8001/pictures")
+    .then (resp => resp.json())
+    .then (setPictures)
+  },[])
+
+  const seaPics = pictures.filter(obj => {
+    return obj.category === "sea";
+  })
+  
+    return (
+      <div className=" flex flex-row flex-wrap gap-x-4 gap-y-3 place-content-center">
+      {seaPics.map((pic, id) => {
+        return <div key={id} className=" rounded-lg flex flex-col shadow-lg">
+          <img className="w-96" src={pic.url} />
+        </div>
+      })}
+    </div>
+    )
   
   };
   
