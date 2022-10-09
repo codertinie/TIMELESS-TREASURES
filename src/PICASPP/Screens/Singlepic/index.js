@@ -20,7 +20,7 @@ const SinglePic = () => {
   return (
     <div className=" rounded-lg flex flex-col shadow-lg items-center">
       <img className=" w-6/12" src={picture.url} />
-      <div className=" text-lg text-left">{picture.description}</div>
+      <div className=" mx-20 text-lg text-left">{picture.description}</div>
     </div>
 
   )

@@ -2,83 +2,111 @@
   "pictures": [
     {
       "id": 1,
-      "url" : "https://media.istockphoto.com/photos/wave-formation-of-the-adriatic-sea-picture-id1222233279",
-      "description": "A photo of people in the sea",
-      "category" : "sea"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Neptune_-_Voyager_2_%2829347980845%29_flatten_crop.jpg/800px-Neptune_-_Voyager_2_%2829347980845%29_flatten_crop.jpg",
+      "description": "Neptune is the eighth planet from the Sun and the farthest known solar planet. In the Solar System, it is the fourth-largest planet by diameter, the third-most-massive planet, and the densest giant planet. It is 17 times the mass of Earth, and slightly more massive than its near-twin Uranus. Neptune is denser and physically smaller than Uranus because its greater mass causes more gravitational compression of its atmosphere. It is referred to as one of the solar system's two ice giant planets (the other one being Uranus). Being composed primarily of gases and liquids, it has no well-defined solid surface",
+      "category": "sky"
     },
     {
       "id": 2,
-      "url" : "https://media.istockphoto.com/photos/female-tourist-looking-the-basilica-di-santa-maria-della-salute-and-picture-id891465194",
+      "url": "https://media.istockphoto.com/photos/female-tourist-looking-the-basilica-di-santa-maria-della-salute-and-picture-id891465194",
       "description": "A photo of people in the sea",
-      "category" : "sea"
+      "category": "sea"
     },
     {
       "id": 3,
-      "url" : "https://media.istockphoto.com/photos/snowcapped-k2-peak-picture-id1288385045",
-      "description": "K2 the second tallest mountain in the world",
-      "category" : "land"
+      "url": "https://cdn.mos.cms.futurecdn.net/2rDwTmgVgidSWnjXdpdjxU-970-80.jpg.webp",
+      "description": "The Atacama Desert (Spanish: Desierto de Atacama) is a desert plateau in South America covering a 1,600 km (990 mi) strip of land on the Pacific coast, west of the Andes Mountains. The Atacama Desert is the driest nonpolar desert in the world, and the second driest overall, just behind some very specific spots within the McMurdo Dry Valleys[2][3][4][5] as well as the only hot true desert to receive less precipitation than the polar deserts, and the largest fog desert in the world.",
+      "category": "land"
     },
     {
       "id": 4,
-      "url" : "https://media.istockphoto.com/photos/aerial-view-of-misty-mountains-at-sunrise-picture-id1195458582",
-      "description": "Aerial view of misty mountains at sunrise",
-      "category" : "land"
-    },{
+      "url": "https://www.adn.com/resizer/oCAbNigzIOzBbQIAgdvDkBfqmHc=/1440x0/filters:format(jpg):quality(70)/arc-anglerfish-arc2-prod-adn.s3.amazonaws.com/public/R5CBCQOV2ZFJRPAWTJI6ZIFTVQ",
+      "description": "This is the gulf of Alaska where Indian ocean meets with the pacific ocean. Why do these waters not mix? Because there is a huge difference in salinity between the clear water that comes from melting glaciers, which is cool and low in salt, while the water from the second ocean has a high salt concentration, Therefore, the two oceans have different densities, which makes them almost impossible to mix",
+      "category": "sea"
+    },
+    {
       "id": 5,
-      "url" : "https://media.istockphoto.com/photos/nepal-couple-and-the-ice-lake-with-the-view-on-annapurna-chain-picture-id1130964201",
-      "description": "A couple walking towards the Ice lake, as part of the Annapurna Circuit Trek, Himalayas, Nepal. Annapurna chain in the back, covered with snow. Clear weather, dry grass, snowy peaks. High altitude",
-      "category" : "land"
-    },{
+      "url": "https://cdn.mos.cms.futurecdn.net/HLG4zrX4GEASPV8e7nm9WK-970-80.jpg.webp",
+      "description": "The Orion Nebula is one of the brightest star-forming regions visible in the night sky even with the naked eye. The nebula, which can be found in the night sky in the constellation Orion just south of the archer's belt, features a wall of dense gas and dust known as the Orion Bar. Inside this bar, energetic photons from stars in the Trapezium cluster (in the top right corner of the image) mix with a molecular cloud, triggering complex ionizing reactions. At the center of the bar, the star Theta2 Orionis A (or θ2 Ori) shines brightly with the characteristic diffraction spikes that are a side-effect of the design of the James Webb Space Telescope's mirror.",
+      "category": "sky"
+    },
+    {
       "id": 6,
-      "url" : "https://media.istockphoto.com/photos/view-of-annapurna-and-machapuchare-peak-at-sunrise-from-tadapani-picture-id620721706",
-      "description": "View of Annapurna and Machapuchare peak at Sunrise from Tadapani ,Nepal.",
-      "category" : "land"
-    },{
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Pajarito_Plateau.jpg",
+      "description": "The Pajarito Plateau is a volcanic plateau in north central New Mexico, United States. The plateau, part of the Jemez Mountains, is bounded on the west by the Sierra de los Valles, the range forming the east rim of the Valles Caldera, and on the east by the Puye escarpment, which rises about 300 to 400 feet (90 to 100 m) above the Rio Grande valley about a mile (1.6 km) west of the river. The Rio Grande passes through White Rock Canyon to the southeast, and the Caja del Rio (Cerros del Rio) across the river is sometimes regarded as part of the plateau.[1] The plateau is occupied by several notable entities, including Bandelier National Monument, the town of Los Alamos and its remote suburb White Rock, and Los Alamos National Laboratory. Elevations range from about 5600 feet (1700 meters) at the river to about 7800 feet (2300 meters) where the plateau merges into the mountain range.",
+      "category": "land"
+    },
+    {
       "id": 7,
-      "url" : "https://media.istockphoto.com/photos/leiden-from-the-sky-at-night-night-picture-id1131102682",
+      "url": "https://media.istockphoto.com/photos/leiden-from-the-sky-at-night-night-picture-id1131102682",
       "description": "Beautiful aerial cityscape view of the city of Leiden, the Netherlands, after sunset at night in the blue hour",
-      "category" : "land"
-    },{
+      "category": "land"
+    },
+    {
       "id": 8,
-      "url" : "https://media.istockphoto.com/photos/planet-earth-from-the-space-at-night-picture-id1271122894",
+      "url": "https://media.istockphoto.com/photos/planet-earth-from-the-space-at-night-picture-id1271122894",
       "description": "Planet earth from the space at night ",
-      "category" : "sky"
-    },{
+      "category": "sky"
+    },
+    {
       "id": 9,
-      "url" : "https://media.istockphoto.com/photos/space-and-galaxy-light-speed-travel-elements-of-this-image-furnished-picture-id1040334020",
+      "url": "https://media.istockphoto.com/photos/space-and-galaxy-light-speed-travel-elements-of-this-image-furnished-picture-id1040334020",
       "description": "Space and Galaxy light speed travel",
-      "category" : "sky"
-    },{
+      "category": "sky"
+    },
+    {
       "id": 10,
-      "url" : "https://media.istockphoto.com/photos/spiral-galaxy-illustration-of-milky-way-picture-id481229372",
+      "url": "https://media.istockphoto.com/photos/spiral-galaxy-illustration-of-milky-way-picture-id481229372",
       "description": "Spiral galaxy, illustration of Milky Way",
-      "category" : "sky"
-    },{
+      "category": "sky"
+    },
+    {
       "id": 11,
-      "url" : "https://media.istockphoto.com/photos/space-background-colorful-nebula-with-planet-picture-id1255395192",
+      "url": "https://media.istockphoto.com/photos/space-background-colorful-nebula-with-planet-picture-id1255395192",
       "description": " Colorful nebula with planet",
-      "category" : "sky"
-    },{
+      "category": "sky"
+    },
+    {
       "id": 12,
-      "url" : "https://media.istockphoto.com/photos/robot-inspects-a-sunken-ship-deep-under-water-picture-id873965514",
+      "url": "https://media.istockphoto.com/photos/robot-inspects-a-sunken-ship-deep-under-water-picture-id873965514",
       "description": "Robot inspects a sunken ship deep under water",
-      "category" : "sea"
-    },{
+      "category": "sea"
+    },
+    {
       "id": 13,
-      "url" : "https://media.istockphoto.com/photos/underwater-view-with-tuna-school-fish-in-ocean-sea-life-in-water-picture-id1189904571",
-      "description": "Underwater view with tuna school fish in ocean. Sea life in transparent water"
-    },{
+      "url": "https://media.techeblog.com/images/nasa-james-webb-space-telescope-southern-ring-planetary-nebula.jpg",
+      "description": "As the star ejects shells of material, dust and molecules form within them – changing the landscape even as the star continues to expel material. This dust will eventually enrich the areas around it, expanding into what’s known as the interstellar medium. And since it’s very long-lived, the dust may end up traveling through space for billions of years and become incorporated into a new star or planet. In thousands of years, these delicate layers of gas and dust will dissipate into surrounding space.",
+      "category": "sky"
+    },
+    {
       "id": 14,
-      "url" : "https://media.istockphoto.com/photos/big-wave-breaking-at-sunset-picture-id933906546",
-      "description": "Huge wave crashing with amazing light at sunset"
-    },{
+      "url": "https://media.istockphoto.com/photos/big-wave-breaking-at-sunset-picture-id933906546",
+      "description": "Huge wave crashing with amazing light at sunset",
+      "category": "sea"
+    },
+    {
       "id": 15,
-      "url" : "https://media.istockphoto.com/photos/desert-dunes-picture-id473796794?s=612x612",
-      "description": "wind blowing on the desert dunes of Oman"
-    },{
+      "url": "https://media.istockphoto.com/photos/desert-dunes-picture-id473796794?s=612x612",
+      "description": "wind blowing on the desert dunes of Oman",
+      "category": "land"
+    },
+    {
       "id": 16,
-      "url" : "https://media.istockphoto.com/photos/woman-standing-and-looking-at-lago-di-carezza-in-dolomites-picture-id1038870630?s=612x612",
-      "description": "Young Caucasian woman standing and looking at Lago di Carezza in Dolomites"
+      "url": "https://media.istockphoto.com/photos/woman-standing-and-looking-at-lago-di-carezza-in-dolomites-picture-id1038870630?s=612x612",
+      "description": "Young Caucasian woman standing and looking at Lago di Carezza in Dolomites",
+      "category": "land"
+    },
+    {
+      "url": "https://cdn.mos.cms.futurecdn.net/YMa7Wx2FyjQFUjEeqa72Rm-970-80.jpg.webp",
+      "description": "Constructed in the 26th and 25th centuries B.C. (roughly 2600 B.C.–2400 B.C.), the Egyptian pyramids of Khufu, Khafre and Menkaure, built in that order, are a testament to ancient planning and engineering.",
+      "category": "land",
+      "id": 17
+    },
+    {
+      "url": "https://lp-cms-production.imgix.net/image_browser/shutterstockRF_1288634608.jpg?auto=format&q=40&w=870&dpr=1",
+      "description": "The Amazon rainforest, Amazon jungle[a] or Amazonia is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin of South America. This basin encompasses 7,000,000 km2 (2,700,000 sq mi), of which 5,500,000 km2 (2,100,000 sq mi) are covered by the rainforest. This region includes territory belonging to nine nations and 3,344 formally acknowledged indigenous territories.",
+      "category": "land",
+      "id": 18
     }
   ]
 }
