@@ -5,10 +5,11 @@ const TopNav = () => {
   const location = useLocation();
   // declaring the navigation hook, a custom hook
   const navigate = useNavigate()
-  // console.log(location)
+  console.log(location)
 
   return (
-  <div className=" flex  flex-row gap-x-32 justify-evenly bg-slate-500 mx-3 my-7 text-2xl ">
+  
+  <div className=" flex flex-row gap-x-32 justify-evenly bg-slate-500 mx-3 my-7 text-2xl rounded-lg">
     <div onClick={() => navigate("")} className={`hover:underline flex decoration-4 cursor-pointer 
     ${location.pathname === "/" ? " bg-orange-500" : ""}`}
     >HOME</div>
