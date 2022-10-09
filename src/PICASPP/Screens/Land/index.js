@@ -21,7 +21,8 @@ const Land=()=>{
       {filtered.map((pic, id) => {
         // console.log(pic.description)
         return <div onClick={() => navigate(`/${pic.id}`)}  
-        key={id} className=" rounded-lg flex flex-col shadow-lg">
+        key={id} className=" transition ease-in-out delay-150 hover:-translate-y-8 hover:scale-110 duration-300
+        rounded-lg flex flex-col shadow-lg">
           <img className="w-96" src={pic.url} />
         </div>
       })}

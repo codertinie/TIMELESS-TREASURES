@@ -9,7 +9,7 @@ const TopNav = () => {
 
   return (
   
-  <div className=" flex flex-row gap-x-24 justify-evenly bg-slate-500 mx-20 my-4 text-2xl rounded-lg">
+  <div className=" mx-5 flex flex-row gap-x-24 justify-evenly bg-slate-500 my-4 text-2xl rounded-lg">
     <div onClick={() => navigate("")} className={`hover:underline flex decoration-4 cursor-pointer 
     ${location.pathname === "/" ? " bg-orange-500" : ""}`}
     >HOME</div>

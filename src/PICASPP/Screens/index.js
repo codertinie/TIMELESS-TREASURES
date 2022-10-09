@@ -20,7 +20,8 @@ function Screens() {
     .then(newItem => setPictures(pictures => [...pictures, newItem]))
   }
   return (
-    <div className=" text-center">
+    <div className=" mx-16 text-center bg-lime-100">
+       <div className=' mx-5 text-center text-8xl font-link rounded-lg border-solid'>TIMELESS TREASURES</div>
       < AddPictureForm onSubmission={handleUpdate}/>
       <TopNav />
       <Outlet />
