@@ -2,7 +2,6 @@ import { Routes, Route, useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
 const SinglePic = () => {
   const route = useParams()
-  console.log(route)
 
   const [picture, setPicture] = useState({
     url: "",
@@ -14,7 +13,6 @@ const SinglePic = () => {
     fetch(`http://localhost:8001/pictures/${route.id}`)
       .then(resp => resp.json())
       .then(setPicture)
-    console.log(picture)
   },[])
 
   return (

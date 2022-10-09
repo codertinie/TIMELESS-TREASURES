@@ -24,7 +24,8 @@ function handleSubmit(e){
             <input placeholder="description.." className=" rounded-lg bg-slate-500" name="description"/>
             <input placeholder="category" className=" rounded-lg bg-slate-500" name="category"/>
           </div>
-          <button type="submit"> Add picture</button>
+          <button className=" rounded-lg text-lg transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300"
+          type="submit"> Add picture</button>
         </form>
       </div>
     )

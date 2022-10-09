@@ -25,8 +25,10 @@ console.log(filtered)
     <div
     className=" flex flex-row flex-wrap gap-x-4 gap-y-3 place-content-center">
       {pictures.map((pic, id) => {
-        return <div onClick={() => navigate(`/${pic.id}`)}
-       key={id} className=" rounded-lg flex flex-col shadow-lg">
+        return <div className=" rounded-lg flex flex-col shadow-lg
+        transition ease-in-out delay-150 hover:-translate-y-8 hover:scale-110 duration-300 "
+        onClick={() => navigate(`/${pic.id}`)}
+       key={id} >
           <img className="w-96" src={pic.url} />
         </div>
       })}
